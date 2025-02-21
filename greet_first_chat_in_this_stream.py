@@ -7,8 +7,8 @@ import webbrowser
 from datetime import datetime
 
 # OAuth-Token automatisch generieren mit chat:read, chat:edit und moderator:read:chatters
-CLIENT_ID = "5r243f2p934ptjpg0ahzdzer9rgsy4"
-CLIENT_SECRET = "x8klk8bokm0hw8lekxbq2pa2319xub"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 REDIRECT_URI = "http://localhost"
 USERNAME_FILE = "username.txt"
 STREAMER_FILE = "streamer.txt"
